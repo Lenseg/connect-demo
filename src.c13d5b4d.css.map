@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.css"],"names":[],"mappings":"AAAA,iBAGE,qBACF,CAEA,KACE,SAAU,CACV,QAAS,CACT,wBACF","file":"src.c13d5b4d.css","sourceRoot":"../public","sourcesContent":["*,\ninput,\ntextarea {\n  box-sizing: border-box;\n}\n\nbody {\n  padding: 0;\n  margin: 0;\n  background-color: #3f51b5;\n}\n"]}
